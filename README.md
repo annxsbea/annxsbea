@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Futura Desenvolvedora full stack, curso 4° semestre de ADS na Fiap. </p>
+     Desenvolvedora Front-end. </p>
   </div>
   
 <div align="center">
